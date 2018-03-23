@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presentation xmlns="http://developer.apple.com/schemas/APXL" version="36" xmlns:plugin="http://developer.apple.com/schemas/APXL">
+	<metadata>
+		<application-name>Keynote</application-name>
+		<application-version>update3-20030829_1</application-version>
+		<time-stamp>Sat Oct  1 00:00:00 2011</time-stamp>
+	</metadata>
+<theme slide-size="1024 450">
+<master-slides>
+<master-slide id="master-slide-1" name="Blank">
+<drawables>
+<title stroke-width="1" size="644 150" visibility="hidden" vertical-alignment="middle" location="78 16" opacity="1" stroke-color="g1">
+<styles>
+<fill-style fill-type="none"/>
+<dash-style pattern="none"/>
+<shadow-style opacity="0" radius="0"/>
+</styles>
+</title>
+<body stroke-width="1" size="644 352" bullet-indentation="0 20 48 75 102 130" visibility="hidden" vertical-alignment="middle" location="78 170" opacity="1" stroke-color="g1">
+<styles>
+<fill-style fill-type="none"/>
+<dash-style pattern="none"/>
+<shadow-style opacity="0" radius="0"/>
+</styles>
+</body>
+<page-number stroke-width="1" size="39 23" visibility="hidden" vertical-alignment="middle" location="380 570" opacity="1" stroke-color="g1">
+<styles>
+<fill-style fill-type="none"/>
+<dash-style pattern="none"/>
+<shadow-style opacity="0" radius="0"/>
+</styles>
+<text-attributes paragraph-alignment="center" tab-stops="L 66" font-size="14" font-name="GillSans"/>
+</page-number>
+</drawables>
+<background-fill-style fill-type="color" fill-color="1 1 1"/>
+<prototype-bullets>
+<bullet level="0" marker-type="none" spacing="0">
+<content paragraph-alignment="center" tab-stops="L 75" font-size="64" font-name="GillSans"/>
+</bullet>
+<bullet level="1" marker-type="character" spacing="18">
+<content paragraph-head-indent="5" paragraph-first-line-indent="5" tab-stops="L 45" font-size="32" font-name="GillSans"/>
+<character-bullet-style size-technique="relative" size="1.71429">
+<bullet-characters tab-stops="L 66" font-size="8" font-name="GillSans">+</bullet-characters>
+</character-bullet-style>
+</bullet>
+<bullet level="2" marker-type="character" spacing="18">
+<content paragraph-head-indent="5" paragraph-first-line-indent="5" tab-stops="L 45" font-size="32" font-name="GillSans"/>
+<character-bullet-style size-technique="relative" size="1.71429">
+<bullet-characters tab-stops="L 66" font-size="8" font-name="GillSans">+</bullet-characters>
+</character-bullet-style>
+</bullet>
+<bullet level="3" marker-type="character" spacing="18">
+<content paragraph-head-indent="5" paragraph-first-line-indent="5" tab-stops="L 45" font-size="32" font-name="GillSans"/>
+<character-bullet-style size-technique="relative" size="1.71429">
+<bullet-characters tab-stops="L 66" font-size="8" font-name="GillSans">+</bullet-characters>
+</character-bullet-style>
+</bullet>
+<bullet level="4" marker-type="character" spacing="18">
+<content paragraph-head-indent="5" paragraph-first-line-indent="5" tab-stops="L 45" font-size="32" font-name="GillSans"/>
+<character-bullet-style size-technique="relative" size="1.71429">
+<bullet-characters tab-stops="L 66" font-size="8" font-name="GillSans">+</bullet-characters>
+</character-bullet-style>
+</bullet>
+<bullet level="5" marker-type="character" spacing="18">
+<content paragraph-head-indent="5" paragraph-first-line-indent="5" tab-stops="L 45" font-size="32" font-name="GillSans"/>
+<character-bullet-style size-technique="relative" size="1.71429">
+<bullet-characters tab-stops="L 66" font-size="8" font-name="GillSans">+</bullet-characters>
+</character-bullet-style>
+</bullet>
+</prototype-bullets>
+<transition-style type="none" duration="0"/>
+<thumbnails>
+<thumbnail byte-size="360" size="60 45" file="thumbs/mt3.tiff"/>
+</thumbnails>
+</master-slide>
+</master-slides>
+</theme>
+<slide-list>
+<slide id="slide-1" master-slide-id="master-slide-1">
+<drawables><shape path="M 41.516220 20.600784 C 53.068584 28.004913 63.538002 33.110527 63.538002 42.556900 C 63.538002 52.513836 58.303528 58.386284 49.097782 58.386284 C 40.613998 58.386284 34.657093 50.215981 34.657093 40.259045 C 34.657093 32.089405 38.628365 24.430325 41.516220 20.600784 Z M 0.000000 44.344196 C 0.000000 69.874901 15.342911 100.000000 49.819744 100.000000 C 84.296112 100.000000 100.000008 70.129852 100.000008 43.578022 C 100.000008 25.962008 93.140877 13.197315 83.574150 4.261502 C 84.277550 3.131068 85.138092 1.690532 86.071022 0.000000 L 17.801781 0.000000 C 12.351965 6.189152 0.000000 22.985579 0.000000 44.344196 Z" transformation="1.045596 0.000000 0.000000 0.739268 213.766113 159.000000" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<shape path="M 57.114300 85.395203 C 45.454407 78.848373 36.956310 72.301552 36.956310 60.914932 C 36.956310 53.229595 40.315975 47.252026 48.814072 47.252026 C 57.312168 47.252026 62.252731 53.798851 62.252731 63.192699 C 62.252731 73.155067 58.497841 82.263916 57.114300 85.395203 Z M 48.616714 0.000000 C 15.217424 0.000000 0.000000 31.311352 0.000000 60.630672 C 0.000000 78.563377 5.533656 89.665001 14.031751 99.912361 C 14.007721 99.940071 13.981070 99.971924 13.956783 100.000000 L 88.701973 100.000000 C 93.447479 91.243156 100.000000 76.155174 100.000000 58.353645 C 100.000000 21.063988 76.284477 0.000000 48.616714 0.000000 Z" transformation="0.955005 0.000000 0.000000 0.663042 219.050781 92.695801" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<shape path="M 36.181519 20.856396 C 48.311001 27.749302 61.846664 31.578842 61.846664 42.301289 C 61.846664 48.428684 56.829288 52.513836 48.567268 52.513836 C 40.305252 52.513836 33.530140 48.684296 33.530140 40.769608 L 33.530140 29.759184 L 0.000000 29.759184 L 0.000000 52.768787 C 0.000000 83.660713 23.364180 100.000000 48.677780 100.000000 C 73.112289 100.000000 100.000000 85.448013 100.000000 40.514656 C 100.000000 20.706215 93.637039 8.548681 84.526169 0.000000 L 11.670549 0.000000 C 17.858194 9.490710 26.759182 15.327159 36.181519 20.856396 Z" transformation="1.073661 0.000000 0.000000 0.739268 331.000000 159.000000" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<shape path="M 41.107822 62.053448 C 41.107822 55.222363 45.669899 52.944599 51.542114 52.944599 C 58.929058 52.944599 63.869938 56.075878 63.869938 62.623444 L 63.869938 72.852394 L 100.000000 72.852394 L 100.000000 41.558720 C 100.000000 13.378648 75.763092 0.000000 51.517612 0.000000 C 26.514027 0.000000 0.000000 13.093651 0.000000 62.053448 C 0.000000 79.153900 3.555953 91.037140 9.203358 100.000000 L 87.708199 100.000000 C 80.317085 92.824173 71.245186 87.926109 62.133217 83.402435 C 50.957733 77.424866 41.107822 72.585808 41.107822 62.053448 Z" transformation="0.996400 0.000000 0.000000 0.663042 334.359985 92.695801" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<shape path="M 11.538462 59.722221 L 0.000000 59.722221 L 0.000000 99.999992 L 52.307693 99.999992 L 52.307693 59.722221 L 43.076923 59.722221 L 43.076923 34.722221 L 44.772388 34.722221 C 49.853516 34.722221 50.869892 37.111748 52.176235 42.092216 L 64.081284 85.726074 C 66.839699 95.425240 70.759468 99.999992 78.889725 99.999992 L 100.000000 99.999992 L 100.000000 59.722221 L 96.166618 59.722221 C 92.827530 59.722221 90.649796 57.345242 89.633415 53.412540 L 84.697266 33.874851 C 83.535912 28.894381 81.609077 26.202560 80.012024 24.105665 C 78.995644 22.794765 78.461540 21.938747 76.923080 21.152071 L 76.923080 20.627848 C 81.538467 15.150705 85.286209 8.180322 87.844055 0.000000 L 11.538462 0.000000 C 11.538462 0.000000 11.538462 59.722221 11.538462 59.722221 Z" transformation="1.300000 0.000000 0.000000 0.720000 453.000000 159.000000" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<shape path="M 61.755390 90.342331 C 59.866936 92.701340 57.349003 93.750000 54.673084 93.750000 L 46.697449 93.750000 L 46.697449 48.437500 L 52.155148 48.437500 C 63.329506 48.437500 66.634094 57.151604 66.634094 70.126915 C 66.634094 79.563713 65.060791 86.508560 61.755390 90.342331 Z M 76.077164 3.802872 C 69.310013 0.264359 61.283073 0.000000 52.469482 0.000000 L 0.000000 0.000000 L 0.000000 45.312500 L 12.508245 45.312500 L 12.508245 100.000000 L 95.227158 100.000000 C 98.293350 89.823631 100.000000 77.994537 100.000000 64.831734 C 100.000000 34.162331 90.556931 11.764908 76.077164 3.802872 Z" transformation="1.199209 0.000000 0.000000 0.640000 453.000000 95.000000" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<shape path="M 89.932884 0.000000 L 9.395973 0.000000 L 9.395973 59.722221 L 0.000000 59.722221 L 0.000000 99.999992 L 46.308723 99.999992 L 46.308723 59.722221 L 36.912750 59.722221 L 36.912750 27.777777 L 62.416107 27.777777 L 62.416107 59.722221 L 53.020134 59.722221 L 53.020134 99.999992 L 100.000000 99.999992 L 100.000000 59.722221 L 89.932884 59.722221 C 89.932884 59.722221 89.932884 0.000000 89.932884 0.000000 Z" transformation="1.490000 0.000000 0.000000 0.720000 597.000000 159.000000" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<shape path="M 89.932884 45.312500 L 100.000000 45.312500 L 100.000000 0.000000 L 53.020134 0.000000 L 53.020134 45.312500 L 62.416107 45.312500 L 62.416107 82.812500 L 36.912750 82.812500 L 36.912750 45.312500 L 46.308723 45.312500 L 46.308723 0.000000 L 0.000000 0.000000 L 0.000000 45.312500 L 9.395973 45.312500 L 9.395973 100.000000 L 89.932884 100.000000 C 89.932884 100.000000 89.932884 45.312500 89.932884 45.312500 Z" transformation="1.490000 0.000000 0.000000 0.640000 597.000000 95.000000" stroke-color="0 0 0 1" stroke-width="1">
+<styles>
+<fill-style fill-type="color" fill-color="0.000000 0.000000 0.000000 1.000000" />
+<dash-style pattern="none" />
+</styles></shape>
+<title visibility="hidden" vertical-alignment="tracks-master"/>
+<body visibility="hidden" vertical-alignment="tracks-master"/>
+</drawables>
+<transition-style type="inherited"/>
+<thumbnails>
+<thumbnail byte-size="360" size="60 45" file="thumbs/st0.tiff"/>
+</thumbnails>
+<bullets>
+<bullet level="0" marker-type="inherited">
+<content paragraph-alignment="center" tab-stops="L 75" font-size="64" font-name="GillSans"/>
+</bullet>
+</bullets>
+</slide>
+</slide-list>
+<ui-state>
+<number key="BGShowUIStateNotesVisible">0</number>
+<reference key="BGShowUIStateActiveSlide" id-ref="slide-1"/>
+<array key="BGShowUIStateSelectedSlides">
+<reference id-ref="slide-1"/>
+</array>
+<array key="BGShowUIStateSelectedBulletPoints"/>
+<number key="BGShowUIStateMasterNavigatorHeight">0</number>
+<array key="BGShowUIStateSelectedDrawables"/>
+<string key="BGShowUIStateCanvasOrigin">{0, 0}</string>
+<string key="BGShowUIStateWindowSize">24 195 960 637 0 0 1280 832 </string>
+</ui-state>
+</presentation>
